@@ -1,5 +1,3 @@
-package DNAnalyzer;
-
 public class CrashComputer {
     public static void crashComputer() {
         while (true) {
